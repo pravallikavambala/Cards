@@ -1,0 +1,46 @@
+<html>
+
+<head>
+  <title>pravallika</title>
+  <style>
+
+.pravi{
+border:3px solid red;
+width:300px;
+box-shadow:25px 25px 25px #CB7FD3,25px 25px 20px #ECE475;
+transition:2s;
+opacity:0.5;
+}
+.pravi img{
+width:100%;
+display:block;
+height:auto;
+}
+.pravi:hover{
+background-color:#F1D7DC;
+border:10px groove lightblue;
+width:400px;
+opacity:1;
+font-style:italic;
+}
+.pravi p{
+text-align:center;
+padding:10px;
+}
+  </style>
+</head>
+
+<body>
+<div class="pravi">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX92nMH_jANJEDQqBI4h1pkFy4OY--jM8TjsaYLwisyA&s" width="300px" height="250">
+<p>Every girl deserves a dress that makes her feel like a princess Every girl deserves a dress that makes her feel like a princess</p>
+  </div><br><br>
+      <div class="pravi">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeAsGesKq0M1B3U9vNVNIzHMFdWo5N0Kwli-6VfHSXQ&s" width="300px" height="250">
+  <p>Every girl deserves a dress that makes her feel like a princess Every girl deserves a dress that makes her feel like a princess</p>
+
+ </div>
+  
+</body>
+
+</html>
